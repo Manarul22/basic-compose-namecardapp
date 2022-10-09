@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NameCard</string>
+    <string name="name">Manarul</string>
+    <string name="position">Android Developer Extraordinary</string>
+    <string name="telephone">+11 (123) 444 555 666</string>
+    <string name="share">\@AndroidDev</string>
+    <string name="email">man.rl@android.com</string>
+</resources>
